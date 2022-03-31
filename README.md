@@ -20,6 +20,7 @@ src="https://img.shields.io/twitter/follow/KowattC?logo=twitter&style=for-the-ba
 
 
 ### Socials
+<a href="https://app.daily.dev/Kowatt"><img src="https://api.daily.dev/devcards/a6b115a611c64e28bff45240de053657.png?r=1w0" width="400" alt="Nicolas Lohya's Dev Card"/></a>
 
 <p align="left">
 <a href="https://www.github.com/Kowatt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
