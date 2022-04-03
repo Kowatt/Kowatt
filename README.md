@@ -14,7 +14,7 @@ Web and Software developer
 
 ### Badges
 
-<a href="https://app.daily.dev/Kowatt"><img src="https://api.daily.dev/devcards/a6b115a611c64e28bff45240de053657.png?r=gy2" width="200" alt="Nicolas Lohya's Dev Card"/></a>
+<a href="https://app.daily.dev/Kowatt"><img src="https://api.daily.dev/devcards/a6b115a611c64e28bff45240de053657.png?r=7r1" width="100" alt="Kowatt's Dev Card"/></a>
 
 <b>My GitHub Stats</b>
 
