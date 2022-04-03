@@ -5,8 +5,8 @@ Web and Software developer
 --------------------------
 
 * 🌍  I'm based in France
-* 🚀  I'm currently working on DataVault
-* 🧠  I'm learning C++
+* 🚀  I'm currently working on [DataVault](https://github.com/Kowatt/dv-client) ([server](https://github.com/Kowatt/dv-server))
+* 🧠  I'm learning JavaScript, ReactJS, Java, C, C++
 
 ### Skills
 
