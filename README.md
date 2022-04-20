@@ -6,7 +6,7 @@ Web and Software developer
 
 * 🌍  I'm based in France
 * 🚀  I'm currently working on [MBoard](https://github.com/Kowatt/mboard)
-* 🧠  I'm learning JavaScript, ReactJS, Java, Python, C, C++
+* 🧠  I'm learning TypeScript, JavaScript, ReactJS, Java, Python, C, C++
 
 ### Skills
 
